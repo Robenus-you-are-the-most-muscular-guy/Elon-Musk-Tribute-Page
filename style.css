@@ -3,3 +3,7 @@ img {
   height: 50%;
   width: 50%;
 }
+
+:root {
+  background-color:  #990000;
+}
