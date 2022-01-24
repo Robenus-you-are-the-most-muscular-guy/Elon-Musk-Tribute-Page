@@ -2,7 +2,7 @@ img {
   text-align: center;
   height: 50%;
   width: 50%;
-  padding-left: 10px;
+  padding-right: 125px;
 }
 
 :root {
@@ -13,5 +13,10 @@ img {
 .navlinks {
   display: inline;
   padding: 25px;
+}
+
+aside {
+  float: left;
+  width: 20%;
 }
 
