@@ -7,3 +7,8 @@ img {
 :root {
   background-color:  #990000;
 }
+
+
+li {
+  display: inline;
+}
