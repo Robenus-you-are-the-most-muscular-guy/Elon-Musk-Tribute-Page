@@ -30,12 +30,17 @@ aside > .pushdown {
 header {
   background-color: white;
   padding: 20px;
-  width: 120%;
+  width: 200%;
   height: 150%;
   justify-content:center; 
   position: relative;
   right: 225px;
   bottom: 20px;
+}
+
+.centernav {
+  position: relative;
+  right: 25%;
 }
 
 .mainPhoto { 
@@ -52,4 +57,9 @@ header {
     background-color:  blue;
     position: relative;
     left: 8px;
+  }
+  
+  .nav-area {
+    position: relative;
+    right: 20%;
   }
