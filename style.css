@@ -1,9 +1,10 @@
 .logo {
+  width: 5%;
+  height: auto;
   position: relative;
   bottom: 115px;
-  height: 5%;
-  width: 5%;
-  right: 275px;
+  right: 18%;
+
 }
 
 html {
@@ -33,15 +34,22 @@ header {
   height: 150%;
   justify-content:center; 
   position: relative;
-  right: 150px;
+  right: 225px;
   bottom: 20px;
 }
 
 .mainPhoto { 
   position: relative;
+  left: 12%;
+  bottom: 50px;
   justify-content: center;
-  top: 60px;
-  right: 25px;
-  width: 50%;
+  display: block;
+  width: 30%;
   height: auto;
+  }
+
+  .blue {
+    background-color:  blue;
+    position: relative;
+    left: 8px;
   }
